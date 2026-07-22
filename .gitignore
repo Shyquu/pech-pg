@@ -10,8 +10,6 @@ dist/
 build/
 
 # 3D Assets & Large Media (optional but recommended for Git performance)
-*.glb
-*.gltf
 
 # Environment variables
 .env
